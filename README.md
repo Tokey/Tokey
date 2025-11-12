@@ -13,10 +13,12 @@ Researcher and developer working at the intersection of interactive media, netwo
 
 ## Focus
 
-- Framerate and frame-time spikes in first-person games
-- Network latency, fairness, and the “peeker’s advantage”
-- Jitter buffering and fixed-rate playback for cloud/edge game streaming
-- Reproducible logging and analysis (CSV-first, confidence intervals, deltas)
+- Controlled first-person shooter experiments for measuring performance and experience  
+- Impact of frame-time disturbances, event timing, and framerate changes on players  
+- Network delay, latency-compensation techniques, and system artifact mitigation in real-time games  
+- Designing research tools and FPS prototypes in Unity/Unreal for repeatable studies  
+- Streaming, timing injection, and structured data pipelines for gameplay and QoE analysis
+
 
 ---
 
@@ -43,29 +45,7 @@ Researcher and developer working at the intersection of interactive media, netwo
 
 ---
 
-## Selected publications
-
-- Tokey, S. S., Boudaoud, B., Kim, J., Spjut, J., Claypool, M. **Timing Matters: The Impact of Event-Specific Frametime Spikes in First-Person Shooter Games.** QoMEX 2025.  
-  Online: http://www.cs.wpi.edu/~claypool/papers/frame-stutter-qomex-25/
-
-- Claypool, M., Tokey, S. S., Spjut, J., Kim, J., Boudaoud, B. **Frame Rate Benefits to Players for up to 500 Hz in First-Person Shooter Games.** NOSSDAV 2025.  
-  Online: https://web.cs.wpi.edu/~claypool/papers/fps-500-25/
-
-- Tokey, S. S., Chen, Z., Mettler, C., Tang, D., Boudaoud, B., Kim, J., Spjut, J., Claypool, M. **The Effects of Network Latency on the Peeker’s Advantage in First-Person Shooter Games.** FDG 2024.  
-  Online: https://web.cs.wpi.edu/~claypool/papers/peeker-fdg-24/
-
-- Tokey, S. S., Cannon, J., Dinasarapu, S., Jiang, A., Qamar, H., Claypool, M. **Effects of Adaptive Time Delay on Quality of Experience in First-Person Shooter Games.** FDG 2024.  
-  Online: https://web.cs.wpi.edu/~claypool/papers/adaptive-fdg-24/
-
-- Tokey, S. S. **Improving Player Experience and Fairness Using Adaptive Time-Delay on First-Person Shooters.** M.S. Thesis, WPI IMGD, 2024.  
-  Online: http://www.cs.wpi.edu/~claypool/ms/tokey-lag-24/
-
-- Joshi, A., Tokey, S. S., Glaser, N., Kargozar, B., Nicholas, A., Carmichael, B., Berver, C., Kopelevich, A., Frost, S. **Exploring Content Integration in Educational Video Games.** TechTrends, 2025.  
-  DOI: https://doi.org/10.1007/s11528-025-01094-w
-
----
-
-## Publications — complete list (12)
+## Publications
 
 1) **Grayscale Portrait Colorization using CNNs and Pretrained VGG-Face Descriptor.**  
 N. Haque, S. S. Tokey. *22nd International Conference on Computer and Information Technology (ICCIT)*, 2019.  
