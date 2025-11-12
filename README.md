@@ -35,10 +35,10 @@ Researcher and developer working at the intersection of interactive media, netwo
 ## Experience
 
 - **Research Assistant, IMGD, Worcester Polytechnic Institute** — 2024–present  
-  FPS testbeds, streaming clients, and user studies on frametime stutters and latency.
+  FPS testbeds, Zombiefield, Last Stand, perception tasks, and user studies on frametime stutters and latency.
 
 - **Research Associate, Virtual Futures Lab, Purdue University CIT** — 2021–2022  
-  Built experimental games and studies including Zombiefield, Last Stand, and perception tasks.
+  Built experimental games and studies, including Parsons and educational games.
 
 - **Software QA Engineer, Enosis Solutions** — 2018–2019  
   Functional, API, and DB testing; test planning and tooling.
