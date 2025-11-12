@@ -2,6 +2,13 @@
 
 Researcher and developer working at the intersection of interactive media, networking, and measurement. I design controlled game experiments, build the software to run them, and publish open results.
 
+<p align="left">
+  <!-- Replace links if needed -->
+  <a href="mailto:sstokey@wpi.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sstokey%40wpi.edu-informational?logo=gmail&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=_6sGl4wAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white"></a>
+  <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"></a>
+</p>
+
 ---
 
 ## Focus
@@ -15,6 +22,8 @@ Researcher and developer working at the intersection of interactive media, netwo
 
 ## Education
 
+- **Ph.D., Interactive Media & Game Development — Worcester Polytechnic Institute (in progress)**  
+  Current doctoral research on frametime stutters, framerate, and player experience in FPS tasks.
 - **M.S., Interactive Media & Game Development — Worcester Polytechnic Institute (2024)**  
   Thesis: *Improving Player Experience and Fairness Using Adaptive Time-Delay on First-Person Shooters*
 - **B.Sc., Computer Science & Engineering — Ahsanullah University of Science & Technology (2019)**
@@ -39,7 +48,7 @@ Researcher and developer working at the intersection of interactive media, netwo
 - Tokey, S. S., Boudaoud, B., Kim, J., Spjut, J., Claypool, M. **Timing Matters: The Impact of Event-Specific Frametime Spikes in First-Person Shooter Games.** QoMEX 2025.  
   Online: http://www.cs.wpi.edu/~claypool/papers/frame-stutter-qomex-25/
 
-- Claypool, M., Tokey, S. S., et al. **Frame Rate Benefits to Players for up to 500 Hz in First-Person Shooter Games.** NOSSDAV 2025.  
+- Claypool, M., Tokey, S. S., Spjut, J., Kim, J., Boudaoud, B. **Frame Rate Benefits to Players for up to 500 Hz in First-Person Shooter Games.** NOSSDAV 2025.  
   Online: https://web.cs.wpi.edu/~claypool/papers/fps-500-25/
 
 - Tokey, S. S., Chen, Z., Mettler, C., Tang, D., Boudaoud, B., Kim, J., Spjut, J., Claypool, M. **The Effects of Network Latency on the Peeker’s Advantage in First-Person Shooter Games.** FDG 2024.  
@@ -51,8 +60,60 @@ Researcher and developer working at the intersection of interactive media, netwo
 - Tokey, S. S. **Improving Player Experience and Fairness Using Adaptive Time-Delay on First-Person Shooters.** M.S. Thesis, WPI IMGD, 2024.  
   Online: http://www.cs.wpi.edu/~claypool/ms/tokey-lag-24/
 
-- Joshi, A., Tokey, S. S., Glaser, N., et al. **Exploring Content Integration in Educational Video Games.** TechTrends, 2025.  
+- Joshi, A., Tokey, S. S., Glaser, N., Kargozar, B., Nicholas, A., Carmichael, B., Berver, C., Kopelevich, A., Frost, S. **Exploring Content Integration in Educational Video Games.** TechTrends, 2025.  
   DOI: https://doi.org/10.1007/s11528-025-01094-w
+
+---
+
+## Publications — complete list (12)
+
+1) **Grayscale Portrait Colorization using CNNs and Pretrained VGG-Face Descriptor.**  
+N. Haque, S. S. Tokey. *22nd International Conference on Computer and Information Technology (ICCIT)*, 2019.  
+DOI: 10.1109/ICCIT48885.2019.9038376
+
+2) **Grayscale Portrait Colorization using Optimization and MTCNN Face Detector.**  
+N. Haque, S. S. Tokey. *Southeast University Journal of Computing Sciences*, 1(1), June 2021.  
+URL: seu.edu.bd/seujcs/downloads/V1N12021/SEUJCS-Vol01No01-5.pdf
+
+3) **Exploring player agency in educational video games.**  
+A. Joshi, C. Mousas, S. S. Tokey, D. Kao. *Entertainment Computing*, 2024.  
+DOI: 10.1016/j.entcom.2024.100754
+
+4) **Exploring Content Integration in Educational Video Games.**  
+A. Joshi, S. S. Tokey, N. Glaser, B. Kargozar, A. Nicholas, B. Carmichael, C. Berver, A. Kopelevich, S. Frost. *TechTrends*, 2025.  
+DOI: 10.1007/s11528-025-01094-w
+
+5) **The Effects of Network Latency on the Peeker’s Advantage in First-Person Shooter Games.**  
+S. S. Tokey, Z. Chen, C. Mettler, D. Tang, B. Boudaoud, J. Kim, J. Spjut, M. Claypool. *FDG 2024*.  
+Online: https://web.cs.wpi.edu/~claypool/papers/peeker-fdg-24/
+
+6) **Effects of Adaptive Time Delay on Quality of Experience in First-Person Shooter Games.**  
+S. S. Tokey, J. Cannon, S. Dinasarapu, A. Jiang, H. Qamar, M. Claypool. *FDG 2024*.  
+Online: https://web.cs.wpi.edu/~claypool/papers/adaptive-fdg-24/
+
+7) **Last Stand — A First Person Shooter Game for User Studies on the Effects of Network Delay on Players.**  
+S. S. Tokey, M. Claypool. *FDG 2024 — Demo*.  
+Online: https://web.cs.wpi.edu/~claypool/papers/last-stand-fdg-24/demo-paper.pdf
+
+8) **Demonstration of Network Latency and the Peeker’s Advantage in First-person Shooter Games.**  
+S. S. Tokey, Z. Chen, C. Mettler, D. Tang, B. Boudaoud, J. Kim, J. Spjut, M. Claypool. *FDG 2024 — Demo*.  
+Online: https://web.cs.wpi.edu/~claypool/papers/peeker-fdg-24/demo-paper.pdf
+
+9) **Timing Matters: The Impact of Event-Specific Frametime Spikes in First-Person Shooter Games.**  
+S. S. Tokey, B. Boudaoud, J. Kim, J. Spjut, M. Claypool. *QoMEX 2025*.  
+Online: http://www.cs.wpi.edu/~claypool/papers/frame-stutter-qomex-25/
+
+10) **Lead Rush: A First-Person Shooter for User Studies and Understanding Effects of Frame Time Spikes.**  
+S. S. Tokey, B. Boudaoud, J. Kim, J. Spjut, P. Xenopoulos, M. Claypool. *QoMEX 2025*.  
+Online: http://www.cs.wpi.edu/~claypool/papers/lead-rush-qomex-25/
+
+11) **Pushing the Limits? Frame Rate Benefits to Players for up to 500 Hz in First Person Shooter Games.**  
+M. Claypool, S. S. Tokey, J. Spjut, J. Kim, B. Boudaoud. *NOSSDAV 2025*.  
+Online: https://web.cs.wpi.edu/~claypool/papers/fps-500-25/
+
+12) **Improving Player Experience and Fairness Using Adaptive Time-Delay on First-Person Shooters.**  
+S. S. Tokey. *M.S. Thesis*, WPI IMGD, 2024.  
+Online: http://www.cs.wpi.edu/~claypool/ms/tokey-lag-24/
 
 ---
 
@@ -96,8 +157,8 @@ Researcher and developer working at the intersection of interactive media, netwo
 ## Contact
 
 Email: sstokey@wpi.edu  
-Google Scholar: add your profile link  
-LinkedIn: add your profile link
+Google Scholar: https://scholar.google.com/citations?user=_6sGl4wAAAAJ&hl=en  
+LinkedIn: https://www.linkedin.com/in/samin-shahriar-tokey-5284ab141/
 
 ---
 
