@@ -88,7 +88,7 @@ S. S. Tokey, B. Boudaoud, J. Kim, J. Spjut, P. Xenopoulos, M. Claypool. *QoMEX 2
 Online: http://www.cs.wpi.edu/~claypool/papers/lead-rush-qomex-25/
 
 11) **Pushing the Limits? Frame Rate Benefits to Players for up to 500 Hz in First Person Shooter Games.**  
-S. S. Tokey, B. Boudaoud,J. Kim,  J. Spjut,  M. Claypool. *NOSSDAV 2025*.  
+S. S. Tokey, B. Boudaoud, J. Kim,  J. Spjut,  M. Claypool. *NOSSDAV 2025*.  
 Online: https://web.cs.wpi.edu/~claypool/papers/fps-500-25/
 
 12) **Improving Player Experience and Fairness Using Adaptive Time-Delay on First-Person Shooters.**  
