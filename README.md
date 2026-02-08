@@ -1,6 +1,6 @@
 # Samin Shahriar Tokey
 
-Researcher and developer working at the intersection of interactive media, networking, and measurement. I design controlled game experiments, build the software to run them, and publish open results.
+Researcher and developer working at the intersection of interactive media, networking, games research and ML. I design controlled game experiments, build the software to run them, and publish open results.
 
 <p align="left">
   <!-- Replace links if needed -->
